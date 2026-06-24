@@ -177,8 +177,7 @@ document.addEventListener('DOMContentLoaded', () => {
   console.log('[Nexus] Session ID:', SESSION_ID);
 
   // 🔽 SIRF YE 1 LINE CHANGE HUI HAI 🔽
-  const BACKEND_URL = 'https://nexus-cortex-backend.onrender.com';
-
+  const BACKEND_URL = 'https://nexus-cortex.onrender.com';  
   // ==========================================
   // 4. FILE UPLOAD
   // ==========================================
